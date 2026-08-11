@@ -1,0 +1,8 @@
+student_id,gender,study_time_hours,attendance_percent,sleep_hours,parental_education,internet_access,extracurricular_activities,part_time_job,previous_grade,final_exam_score,final_grade,student_class
+137,Male,2.5,82.7,7.2,High School,No,No,Yes,55.0,59.7,F,Class 3
+148,Male,1.7,83.5,5.7,Masters,Yes,Yes,Yes,59.2,46.8,F,Class 3
+280,Female,3.7,84.8,5.2,PhD,No,Yes,Yes,54.3,58.8,F,Class 3
+540,Female,1.2,75.8,7.1,Bachelors,Yes,Yes,Yes,45.0,57.3,F,Class 3
+609,Female,2.0,88.5,5.7,High School,No,Yes,Yes,63.7,58.6,F,Class 3
+761,Female,1.9,69.0,6.0,High School,Yes,No,Yes,34.5,53.2,F,Class 3
+808,Male,4.0,71.4,6.1,High School,No,Yes,Yes,49.1,57.8,F,Class 3
